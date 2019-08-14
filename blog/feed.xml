@@ -4,7 +4,7 @@
         <title>Darkroom Blog</title>
         <link>https://kavishgambhir.github.io/darkroom/blog</link>
         <description>The best place to stay up-to-date with the latest Darkroom news and events.</description>
-        <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -15,10 +15,10 @@
         <copyright>Copyright © 2019 Gojek </copyright>
         <item>
             <title><![CDATA[New Version 0.0.4]]></title>
-            <link>https://kavishgambhir.github.io/darkroom/blog/2017/10/24/new-version-1.0.0.html</link>
-            <guid>https://kavishgambhir.github.io/darkroom/blog/2017/10/24/new-version-1.0.0.html</guid>
-            <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></description>
+            <link>https://kavishgambhir.github.io/darkroom/blog/2019/08/14/new-version-1.0.0.html</link>
+            <guid>https://kavishgambhir.github.io/darkroom/blog/2019/08/14/new-version-1.0.0.html</guid>
+            <pubDate>Wed, 14 Aug 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Docs updated using Docusaurus.</p> ]]></description>
         </item>
     </channel>
 </rss>
